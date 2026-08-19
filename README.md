@@ -1,17 +1,17 @@
 
-
 # Olá, eu sou o Shelton Chambule 👋
 
 🎓 Estudante de Programação Informática no ISDB
-💻 Foco em desenvolvimento **Backend com Java**
+💻 Foco em desenvolvimento Backend com Java
 
 ---
 
-### 🧠 Sobre mim
+ 🧠 Sobre mim
+
 - Sempre aberto a colaborar em projetos e aprender com a comunidade
 ---
 
-### ⚡ Tecnologias
+⚡ Tecnologias
 
 **Backend:**
 
@@ -34,8 +34,7 @@
 ![StarUML](https://img.shields.io/badge/UML-005C99?style=for-the-badge&logo=uml&logoColor=white)
 
 ---
-
-### 📌 Projetos em destaque
+📌 Projetos em destaque
 
 - **E-commerce de Padaria** — projeto de portfólio com Spring Boot + JPA, modelado em UML (Produto, Categoria, Pedido, Usuário, Pagamento)
 - **Sistema de Agendamento de Consultas Médicas** — projeto de aprendizagem, modelado em StarUML
@@ -43,14 +42,14 @@
 
 ---
 
-### 📊 GitHub Stats
+📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
 
 ---
 
-### 📫 Contato
+📫 Contato
 
 - LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
 - Email: chambuleshelton@gmail.com
