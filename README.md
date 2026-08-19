@@ -1,8 +1,7 @@
 
 # Olá, eu sou o Shelton Chambule 👋
 
-🎓 Estudante de Programação Informática no ISDB
-💻 Foco em desenvolvimento Backend com Java
+🎓 Estudante de Programação Informática no ISDB, foco em desenvolvimento Backend com Java
 
 ---
 
@@ -44,8 +43,8 @@
 
 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=shelon-chambule&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shelon-chambule&layout=compact)
 
 ---
 
